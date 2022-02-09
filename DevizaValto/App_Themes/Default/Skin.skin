@@ -1,0 +1,28 @@
+﻿<%--
+Default skin template. The following skins are provided as examples only.
+
+1. Named control skin. The SkinId should be uniquely defined because
+   duplicate SkinId's per control type are not allowed in the same theme.
+
+<asp:GridView runat="server" SkinId="gridviewSkin" BackColor="White" >
+   <AlternatingRowStyle BackColor="Blue" />
+</asp:GridView>
+
+2. Default skin. The SkinId is not defined. Only one default 
+   control skin per control type is allowed in the same theme.
+
+<asp:Image runat="server" ImageUrl="~/images/image1.jpg" />
+--%>
+
+<asp:TextBox SkinId="NTextBox80" runat="server" Width="80px" CssClass="NTextBox" />
+<asp:TextBox SkinId="NTextBox120" runat="server" Width="120px" CssClass="NTextBox" />
+
+<asp:DropDownList SkinId="DropDownList" runat="server" Width="80px" Height="21px" />
+<asp:RequiredFieldValidator SkinId="RequiredFieldValidator" runat="server" CssClass="hiba"
+    Text="*" ToolTip="Kötelező!" ErrorMessage="Kötelező!" Display="None">
+</asp:RequiredFieldValidator>
+<asp:CompareValidator SkinID="CompareValidatorDouble" runat="server" CssClass="hiba"
+    Text="*" ToolTip="A mező csak számjegyekből állhat."
+    ErrorMessage="A mező csak számjegyekből állhat." Display="None">
+</asp:CompareValidator>
+
