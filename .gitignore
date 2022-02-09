@@ -3,3 +3,10 @@
 /Kuld
 /Munkakörelemzés_Kompetenciaelemzés_20220202_vegl_Vanyó_Tamás.xlsx
 /packages
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+*.suo
+*.obj
+*.pdb
