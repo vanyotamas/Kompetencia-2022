@@ -1,8 +1,0 @@
-C:\Users\vanyot\Documents\Kompetencia 2022\DevizaValto\bin\DevizaValto.dll
-C:\Users\vanyot\Documents\Kompetencia 2022\DevizaValto\bin\DevizaValto.pdb
-C:\Users\vanyot\Documents\Kompetencia 2022\DevizaValto\obj\Debug\DevizaValto.dll
-C:\Users\vanyot\Documents\Kompetencia 2022\DevizaValto\obj\Debug\DevizaValto.pdb
-C:\Users\vanyot\Documents\Kompetencia 2022\DevizaValto\obj\Debug\DevizaValto.Properties.Resources.resources
-C:\Users\vanyot\Documents\Kompetencia 2022\DevizaValto\obj\Debug\DevizaValto.csproj.GenerateResource.Cache
-C:\Users\vanyot\Documents\Kompetencia 2022\DevizaValto\bin\AjaxControlToolkit.dll
-C:\Users\vanyot\Documents\Kompetencia 2022\DevizaValto\obj\Debug\DevizaValto.csprojResolveAssemblyReference.cache
